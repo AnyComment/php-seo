@@ -1,6 +1,6 @@
 {
-  "name": "anycomment/php-comment-indexing",
-  "description": "Comment Indexing Module based on AnyComment REST API",
+  "name": "anycomment/php-seo",
+  "description": "AnyComment SEO helps to server renders comments on the page. ",
   "keywords": [
     "anycomment",
     "anycomment comment indexing"
